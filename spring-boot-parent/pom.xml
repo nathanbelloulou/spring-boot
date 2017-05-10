@@ -684,6 +684,14 @@
 						<enabled>true</enabled>
 					</snapshots>
 				</pluginRepository>
+				<pluginRepository>
+					<id>apache-snapshots</id>
+					<name>Apache Snapshots</name>
+					<url>https://repository.apache.org/content/repositories/snapshots</url>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</pluginRepository>
 			</pluginRepositories>
 		</profile>
 		<profile>
@@ -745,6 +753,14 @@
 					<id>spring-snapshots</id>
 					<name>Spring Snapshots</name>
 					<url>http://repo.spring.io/snapshot</url>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</pluginRepository>
+				<pluginRepository>
+					<id>apache-snapshots</id>
+					<name>Apache Snapshots</name>
+					<url>https://repository.apache.org/content/repositories/snapshots</url>
 					<snapshots>
 						<enabled>true</enabled>
 					</snapshots>
@@ -829,6 +845,14 @@
 					<id>spring-snapshots</id>
 					<name>Spring Snapshots</name>
 					<url>http://repo.spring.io/snapshot</url>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</pluginRepository>
+				<pluginRepository>
+					<id>apache-snapshots</id>
+					<name>Apache Snapshots</name>
+					<url>https://repository.apache.org/content/repositories/snapshots</url>
 					<snapshots>
 						<enabled>true</enabled>
 					</snapshots>
